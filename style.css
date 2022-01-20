@@ -5,7 +5,7 @@ body {
 }
 
 button {
-  border: 0.05rem solid black;
+  border: 0.05rem solid rgb(253, 95, 21);
   background-color: transparent;
   padding: 1.5rem;
   margin-top: 10rem;
