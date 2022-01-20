@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border: 0.05rem solid black;
+  background-color: transparent;
+  padding: 1.5rem;
+  margin-top: 10rem;
+}
